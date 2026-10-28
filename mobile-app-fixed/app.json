@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "FreshMart",
+    "slug": "freshmartfinal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.ynotusers.freshmartfinal"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "64253a10-9a62-43a9-b918-6b73d4632ce5"
+      }
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}

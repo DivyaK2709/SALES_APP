@@ -1,0 +1,20 @@
+{
+  "lastSyncedTransNo": {
+    "AcSales": 0,
+    "AcSalesDetails": 0
+  },
+  "lastSyncedInvNo": {
+    "PSalesMaster": 70010417,
+    "PSalesDetails": 70010417,
+    "PBackSalesMaster": 118,
+    "PBackSalesDetails": 118
+  },
+  "unitsHash": "ee734d083fe4b1450d2d7606f916419d9c40f3c6ff3045c1d62b09374785cbb1",
+  "masterHashes": {
+    "departments": "39f384c9b5beb32fe1c53a64ab8d3f42eff8c0620d07d67e588f979499758bb1",
+    "categories": "bedb8bad9ea73e8add6938f9a94e490c5245ce69dd7c43152f9c6a49efbacb3d",
+    "firstCategories": "78308afca5fb3aea244d66dc82c5f4dbb0f9a1f437cd18effc745d6899cf9c55",
+    "items": "5ee82dc033ff61086079164299396577c95ffcc4c703042182a402fd1915e32f"
+  },
+  "lastPriceChangeId": "2"
+}
