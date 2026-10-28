@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "FreshMart",
@@ -12,8 +13,12 @@
     "android": {
       "package": "com.ynotusers.freshmartfinal"
     },
+    "experiments": {
+      "baseUrl": "/SALES_APP"
+    },
     "web": {
-      "bundler": "metro"
+      "bundler": "metro",
+      "output": "single"
     },
     "extra": {
       "eas": {
